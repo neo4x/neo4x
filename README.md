@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o @neo4x
-- 👀 Tenho interesse em Counter Strike, Matrix, AI e programacao em geral.
-- 🌱 Atualmente estou crusando Engenharia de Software na UFC.
+- 👀 Tenho interesse em Front Web Development, AI, Matrix e Jogos.
+- 🌱 Atualmente estou aprendendo JavaScript.
 - 📫 Voce pode me contatar via WhatsApp (88) 997403137 ou Instagram @lacerdaneo.
 
 <!---
